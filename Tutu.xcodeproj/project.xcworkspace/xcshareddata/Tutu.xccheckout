@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>35EF678F-31C8-4E57-9C55-EA2489B2A2D5</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>511aaee5-152d-4ee4-baa5-2b27a0c86563++4515</key>
+		<string>svn://59.108.82.20/mobile/ios/IPHONE/Tutu/Tutu</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Tutu.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>511aaee5-152d-4ee4-baa5-2b27a0c86563++4515</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>511aaee5-152d-4ee4-baa5-2b27a0c86563++4515</key>
+		<string>svn://59.108.82.20/mobile</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>svn://59.108.82.20/mobile/ios/IPHONE/Tutu/Tutu/Tutu.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>511aaee5-152d-4ee4-baa5-2b27a0c86563++4515</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>511aaee5-152d-4ee4-baa5-2b27a0c86563++4515</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Tutu</string>
+		</dict>
+	</array>
+</dict>
+</plist>

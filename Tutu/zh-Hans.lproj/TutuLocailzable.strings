@@ -1,0 +1,315 @@
+/* 
+  TutuLocailzable.strings
+  Tutu
+
+  Created by zhangxinyao on 15/6/5.
+  Copyright (c) 2015年 zxy. All rights reserved.
+*/
+
+
+/*********************************************************
+ * 登录
+ ***/
+"TTlogin_title"="登录";
+"TTlogin_back"="取消";
+"TTlogin_button_login"="登录";
+"TTlogin_placeholder_name"="手机号登录";
+"TTlogin_placeholder_password"="密码";
+"TTlogin_forgot_password"="忘记密码？";
+"TTlogin_other_acount"="第三方账号登录";
+"TTlogin_button_register"="注册";
+
+
+/*********************************************************
+ * 注册
+ ***/
+
+
+/*********************************************************
+ * 首页
+ ***/
+
+//首页相关
+"home_page_hot_title"="热门";
+
+"home_page_follow_title"="关注";
+"home_page_hot_huati"="热门话题";
+"topic_comment"="评论";
+"topic_zan"="点赞";
+"topic_repost"="转发";
+"topic_can_not_repost"="呜呜，不能转发了!";
+"topic_repost_success"="转发成功";
+"topic_repost_cancel_success"="取消转发";
+"topic_more"="更多";
+"topic_wonderful_comment"="精彩评论";
+"topic_hot_huati"="热门话题";
+"topic_hot_loaction"="热门位置";
+
+"topic_collection_success"="收藏成功";
+"topic_cancel_collection_success"="取消收藏成功";
+"topic_report_success"="举报成功";
+
+"topic_look_all"="查看全文";
+
+"topic_watch_count"="浏览次数";
+"topic_anonymous"="匿名";
+
+"topic_double_click_zan"="双击可以点赞哦";
+
+"topic_repost_this_topic"="转发了该帖子!";
+
+"topic_etc"="等";
+"topic_somebody_repost"="人转发了该帖子!";
+
+"TT_share_success"="报告主人，分享传送成功！";
+"TT_share_faild"="报告主人，分享传送失败！";
+"TT_network_not_ok"="网络好像不给力,";
+"TT_click_retry"="点击重试";
+"TT_make_sure"="确定";
+"TT_cancel"="取消";
+"TT_can_not_wifi_message"="未链接wifi，继续播放将消耗手机流量";
+
+"TT_make_sure_delete_comment"="确定要删除评论吗？";
+
+
+"TT_share_to"="分享到:";
+"TT_friend"="Tutu好友";
+"TT_QQ_friend"="QQ好友";
+"TT_QQ_zone"="QQ空间";
+"TT_weixin_friend"="微信好友";
+"TT_weixin_Moment"="微信朋友圈";
+"TT_sina_weibo"="新浪微博";
+"TT_cancel_collectin"="取消收藏";
+"TT_collection"="收藏";
+"TT_block_ta"="屏蔽ta的内容";
+"TT_bad_report"="不良内容举报";
+"TT_copy_link"="复制链接";
+"TT_look_more"="查看更多";
+"TT_have"="有";
+"TT_new_post"="个新帖子啦!";
+"TT_follow_success"="关注成功";
+"TT_haved_follow"="已关注";
+"TT_follow"="关注";
+"TT_join_discussion"="人参人讨论";
+"TT_close"="关闭";
+"TT_recommend"="推荐";
+"TT_you_have_not_any_follow"="你还木有任何关注哦！";
+"TT_maybe_interest_people"="可能感兴趣的人";
+
+"TT_my_phone_name"="我的手机标识";
+"TT_set_phone_name_desc"="你可以自定义设置手机标识，将在主题中展示，预览如下:";
+"TT_choose_phone_model"="选择型号";
+
+"TT_modify"="修改成功";
+"TT_search"="搜索";
+"TT_common_contacts"="常用联系人";
+"TT_detail"="详情";
+"TT_post_comment"="发评论";
+"TT_send_comment"="发布评论";
+"TT_report"="举报";
+"TT_coyp"="复制";
+"TT_delete"="删除";
+"TT_delete_success"="删除成功";
+"TT_confirm_delete_comment?"="确定删除评论？";
+"TT_reply"="回复";
+"TT_send"="发送";
+
+//设置
+"TT_setting"="设置";
+"TT_account_manager"="帐号管理";
+"TT_sound"="声音";
+"TT_vibration"="振动";
+"TT_new_message_notification"="新消息提醒";
+"TT_is_accept_stranger_message"="是否接受陌生人消息";
+"TT_is_wifi_auto_play"="Wi-Fi下视频自动播放";
+"TT_privacy"="隐私";
+"TT_give_me_score"="给我评分";
+"TT_user_agreement"="用户协议";
+"TT_function_introduced"="功能介绍";
+"TT_help_feedback"="帮助与反馈";
+"TT_remove_storage_space"="清除存储空间";
+
+//帐号管理
+"TT_logout"="退出登录";
+"TT_avatar"="头像";
+"TT_nickname"="昵称";
+"TT_tutu_number"="Tutu号";
+"TT_gender"="性别";
+"TT_birthday"="生日";
+"TT_area"="地区";
+"TT_sign"="签名";
+"TT_change_password"="修改密码";
+"TT_boy"="男";
+"TT_girl"="女";
+"TT_no_setting"="未设置";
+"TT_confirm_logout?"="确定退出当前帐号?";
+"TT_take_photo"="拍照";
+"TT_photo_album"="相册";
+"TT_set_nickname"="设置昵称";
+"TT_location_city"="定位城市";
+"TT_copy_success"="复制成功";
+"TT_set_nickname_password_error"="设置昵称密码错误!";
+"TT_verification_code_erro"="验证码输入错误!";
+"TT_finish"="完成";
+"TT_new_a_nickname!"="起个昵称吧!";
+"TT_set_nickname_desc"="昵称最少2个汉字或4个字符,最多12个汉字!";
+"TT_perfect_information"="完善资料";
+"TT_new_alerts"="新消息通知";
+"TT_block_his(her)_message"="屏蔽他(她)的私信";
+"TT_block_his(her)_content"="屏蔽他(她)的内容";
+"TT_you_not_block_any_content"="善良的你还没有屏蔽任何内容哦~";
+"TT_have_not_hate_people"="还没有讨厌的人存在哦~";
+"TT_block_message"="屏蔽私信";
+"TT_cancel_block"="取消屏蔽";
+"TT_delete_friend"="删除好友";
+"TT_add_friend"="加为好友";
+"TT_modify_remark"="修改备注";
+"TT_stealth_mode"="隐身模式";
+"TT_visible_to_all"="对所有人可见";
+"TT_visible_to_friend"="对好友可见";
+"TT_visible_to_none"="对所有人隐身";
+"TT_visible_distance_to_all"="对所有人显示距离";
+"TT_visible_distance_to_friend"="对好友显示距离";
+"TT_visible_distance_to_none"="对所有人不显示距离";
+"TT_set_camera_permission"="请到手机系统的 \" 设置 ->隐私 ->相机 \" 并允许Tutu使用。";
+"TT_set_album_permission"="请到手机系统的 \" 设置 ->隐私 ->照片 \"并允许Tutu访问。";
+"TT_camera"="相机";
+"TT_album"="相册";
+"TT_blacklist"="黑名单";
+"TT_chat_history_download"="聊天记录下载";
+"TT_download_success"="下载完成";
+"TT_download_pause"="暂停下载";
+"TT_download_start"="开始下载";
+
+"TT_add_friends"="加好友";
+"TT_verification_by"="验证通过";
+"TT_send_message"="发消息";
+"TT_topic"="主题";
+"TT_fans"="粉丝";
+"TT_follows"="个关注";
+"TT_hotest"="最热";
+"TT_newest"="最新";
+"TT_browses"="次浏览";
+"TT_topics"="个主题";
+"TT_topic_search"="话题搜索";
+"TT_comment_peoples"="人参与评论";
+"TT_phone_number_bindding"="手机号绑定";
+"TT_phone_number_validation"="手机号验证";
+
+"TT_bindding_phone_number"="绑定手机号";
+"TT_friends_validation"="好友验证";
+"TT_nearby"="附近";
+"TT_location_error"="无法定位";
+"TT_open_location_ios7"="请到手机系统的 \" 设置 ->通用 ->定位服务 \" 打开位置服务，打开位置服务并允许Tutu使用。";
+"TT_open_location_ios6"="请到手机系统的 \" 设置 ->隐私 ->定位服务 \" 打开位置服务，打开位置服务并允许Tutu使用。";
+"TT_all"="全部";
+"TT_look_only_boy"="只看男生";
+"TT_look_only_girl"="只看女生";
+"TT_have_not_a_friend_nearby"="不好意思，附近还没有小伙伴哦~";
+"TT_add_buddy"="添加好友";
+"TT_add_samecity_friend"="添加同城好友";
+"TT_add_contacts_friend"="添加通讯录好友";
+"TT_add_QQ_friend"="添加QQ好友";
+"TT_add_weixin_friend"="添加微信好友";
+"TT_need_contacts_permission"="需要您授权通讯录访问权限才能执行此功能";
+"TT_set_open_contacts_premission"="打开通讯录访问权限的方法:设置->隐私->通讯录-Tutu";
+"TT_I_get_it"="我知道了";
+"TT_getting_contacts_friend_relation"="正在获取通讯录好友关系...";
+"TT_maksure_cancel_follow"="确定取消关注?";
+"TT_buddy"="好友";
+"TT_my_location"="我的位置";
+"TT_seek_nearby"="寻找附近的地点";
+"TT_invitation"="邀请";
+"TT_alert_message"="提示信息";
+"TT_equipment_is_not_message_function"="该设备没有短信功能";
+"TT_select_all"="全选";
+"TT_edite"="编辑";
+"TT_cancel_select_all"="取消全选";
+"TT_me"="我";
+"TT_contacts"="手机通讯录";
+
+
+"TT_connectting"="连接中...";
+
+"TT_shooting"="拍摄";
+"TT_hold_down_to_talk_release_can_be_sent"="按住说话，松开即可发送";
+"TT_you_chat_with_your_own"="你正在与自己聊天!";
+"TT_unblock_message"="解除屏蔽私信";
+"TT_unblock_content"="解除屏蔽内容";
+"TT_clean_message"="清除私信";
+"TT_report_this_person"="举报此人";
+"TT_resend"="重新发送";
+"TT_save_pic_success"="保存图片成功";
+"TT_save_pic_fail"="保存图片失败";
+"TT_connect_fail"="连接失败";
+"TT_fingers_slide_cancel_sending"="手指上滑，取消发送";
+"TT_i_focus_people"="我关注的人";
+"TT_stranger"="陌生人";
+"TT_chat"="聊天";
+"TT_charge..."="收取中...";
+"TT_charge_fail"="收取失败";
+"TT_have_chat_history"="有历史聊天记录!";
+"TT_download_chat_history_desc"="请到“设置->隐私->聊天记录下载”中下载之前的聊天记录。";
+"TT_download_chat_history"="下载聊天记录";
+"TT_friend_relation"="好友关系";
+"TT_loading"="加载中...";
+"TT_de_follow"="的关注";
+"TT_mine_follow"="我的关注";
+"TT_the_topic_of_concern"="关注的话题";
+"TT_the_location_of_concern"="关注的位置";
+"TT_high_cold_he_has_yet_to_pay_attention_to_anybody_quick_to_conquer_him"="高冷的他还没有关注任何人，快去征服他！";
+"TT_what_do_you_pay_attention_to_all_have_no"="你什么关注都没有哦！";
+"TT_quick_to_find_interested_attention"="快去寻找感兴趣的关注吧！";
+"TT_topic_square"="话题广场";
+"TT_dynamic"="动态";
+"TT_new_dynamic"="新动态";
+"TT_history_dynamic"="历史动态";
+"TT_Master!Don't send photos is no friend to mess you"="主人！不发照片是没有小伙伴勾搭的哟~";
+"TT_Ta sent bad information, get banned"="Ta发了不良信息,被封号了！";
+"TT_The friend is a little bit lazy, also did not send photos!"="这位小伙伴有点懒，还没有发照片！";
+"TT_Master! What are m here! Go to the collection like the content"="主人！这里什么都米有！快去收藏喜欢的内容吧！";
+"TT_Replace the topic covers?"="更换主题封面？";
+"TT_From the album to choose"="从相册选择";
+"TT_Select the cover page"="精选主页封面";
+"TT_Charm value"="魅力值";
+"TT_Set the cover"="设置封面";
+"TT_Please select a report"="请选择举报的原因";
+"TT_porn"="色情";
+"TT_Fraud cheat money"="欺诈骗钱";
+"TT_Insulting slander"="侮辱诋毁";
+"TT_The ads"="广告骚扰";
+"TT_political"="政治";
+"TT_Go figure"="盗图";
+"TT_The account recently 10 information will also be submitted as evidence"="该账号最近10条信息也将作为证据一并提交。";
+"TT_Blocked the account"="屏蔽该账户的消息";
+"TT_You will no longer receive any message from him"="你将不再收到任何来自他的消息";
+"TT_To report success! Administrators are handled in a timely manner!"="举报成功！管理员会及时处理！";
+"TT_You need to send verification application, waiting for each other through"="你需要发送验证申请,等待对方通过。";
+"TT_Friends in Tu"="处Tu友";
+"TT_Hi, and a friend"="嗨~加个好友吧~";
+"TT_HI! Want to know me?"="HI!不想认识下我吗？";
+"TT_Find ah find ah find friends"="找呀找呀找朋友";
+"TT_Send a success"="发送成功";
+"TT_All comments"="全部评论";
+"TT_Theme does not exist"="主题不存在";
+"TT_remark"="备注";
+"TT_Add notes"="添加备注";
+"TT_Determine remove buddy"="确定删除好友?";
+"TT_Note only input and 32 characters"="备注最多只能输入32个汉字哦!";
+"TT_search_user"="搜索用户";
+"TT_Video processing failure"="视频处理失败";
+"TT_Processing the local photo"="加工本地照片";
+"TT_Local video processing"="加工本地视频";
+"TT_auto"="自动";
+"TT_open"="打开";
+"TT_In dealing with the cover..."="封面处理中...";
+"TT_The next step"="下一步";
+"TT_The following video oh can only select 10 minutes"="只能选取10分钟以下的视频噢";
+"TT_Video file does not identify"="视频文件不识别!";
+"TT_Video file to extract failure"="视频文件提取失败";
+"TT_Please enter a comment!"="请输入评论内容!";
+"TT_release"="发布";
+"TT_Add a description"="添加描述";
+"TT_add_location"="添加位置";
+"TT_Synchronization to"="同步至:";
+"TT_just"="刚刚";
